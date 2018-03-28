@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 此木軒四書說
-#+DATE: 2018-03-28 13:09:49.298393
+#+DATE: 2018-03-28 13:09:49.395680
 #+PROPERTY: ID KR1h0065
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 御製題此木軒四書説
 御製題此木軒四書説¶
 雲間績學衆傳諸經説方成又説書一刹不容有二佛¶
